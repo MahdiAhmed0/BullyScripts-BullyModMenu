@@ -1,7 +1,7 @@
 
 --- All of those codes were inside a main function called Main(), and another main function called MissionSetup(). These are the only functions that the game can recognize and run....
 -- and for sure you can run another undircted function from a Main() or MissionSetup().
--- you can learn a lot by understanding the code, it's a small chunk of script but has a few concepts that can help you out in any future project, really good concepts.
+-- You can learn a lot by understanding the code. It's a small chunk of the original script, but it contains a few concepts that can assist you in any future project, really good concepts.
 
 --- missing parts
 SimpleMenu = {
@@ -52,5 +52,5 @@ PunishmentV = 0
 -- The story behind this script: I was developing a script called 'Mission,' and there was too much to debug. So, I built this menu to assist me with debugging my 'Mission'.
 -- The most helpful debugging feature was the 'Reset Camera' option because the camera was glitching all the time. As a result, I had to debug the camera most of the time.
 
--- IMPORTANT: There is no license for this script. A lot of its original code is missing, and it was testing code not intended to be published by any means.
+-- IMPORTANT: There is no license for this script. Much of its original code is missing, and it was testing code not intended to be published by any means.
 -- Developed By : Fibonacci
