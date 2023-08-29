@@ -49,7 +49,7 @@ PunishmentV = 0
 
 --- missing parts
 
--- The story behind this script: I was developing a script called 'Mission,' and there was too much to debug. So, I built this menu to assist me with debugging my 'Mission'.
+-- The story behind this script: I was developing a script 'Mission' and there was too much to debug. So, I built this menu to assist me with debugging my 'Mission'.
 -- The most helpful debugging feature was the 'Reset Camera' option because the camera was glitching all the time. As a result, I had to debug the camera most of the time.
 
 -- IMPORTANT: There is no license for this script. Much of its original code is missing, and it was testing code not intended to be published by any means.
