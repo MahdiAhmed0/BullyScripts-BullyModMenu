@@ -1,4 +1,4 @@
-# 🎮 Bully Mod Menu (Lua)
+# Bully Mod Menu (Lua)
 
 A custom **Lua mod menu** for the game *Bully*, designed for testing, mission prototyping, and gameplay manipulation.
 
@@ -14,6 +14,6 @@ This project provides an in-game interactive menu that allows real-time control 
 
 ---
 
-## 👤 Author
+## Author
 
 Developed as part of early Lua scripting experimentation and game modding research.
