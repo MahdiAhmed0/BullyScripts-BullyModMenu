@@ -4,7 +4,7 @@ An in-game Lua menu for Bully: Scholarship Edition, used to test script function
 
 ## Overview
 
-`Script.lua` is laid out like one of the game's mission scripts: `MissionSetup()` places the player and `main()` starts a menu thread. The menu started as a debugging aid for the author's other Bully scripts, which is where the test-style function names and informal messages come from.
+`Script.lua` is laid out like one of the game's mission scripts: `MissionSetup()` places the player and `main()` starts a menu thread. The menu started as a debugging aid for my other Bully scripts, which is where the test-style function names and informal messages come from.
 
 ## Menu entries
 
@@ -49,5 +49,5 @@ The IDs are the game's control actions; the physical key or gamepad button is wh
 
 ## Credits
 
-- Written by Fibonacci.
+- Written by Mahdi (Fibonacci).
 - Button, stat and model IDs were checked against derpy54320's Bully LUA Reference.
